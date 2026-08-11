@@ -8,6 +8,7 @@ issueTrackerURL="${mod_github}/issues"
     displayName="${mod_name}"
     displayURL="${mod_github}"
     iconFile="${mod_icon}"
+    bannerFile="${mod_icon}"
     authors="${mod_author}"
     description='''${mod_description}'''
 
