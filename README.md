@@ -2,7 +2,7 @@
 
 <h1><p align="center">Intentional Pickup</p></h1>
 
-<p align="center">A simple mod that makes Mobs only pickup items that are intentionally dropped by players.</p>
+<p align="center">A simple mod that makes mobs only pickup items that are intentionally dropped by players.</p>
 
 <div align="center">
 
