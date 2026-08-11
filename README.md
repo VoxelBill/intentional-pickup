@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[Download on Modrinth](https://modrinth.com/project/intentional-pickup/versions) |
+~~Download on Modrinth~~ (Coming Soon) |
 [Download from Releases](https://github.com/VoxelBill/intentional-pickup/releases)
 
 </div>
@@ -17,7 +17,7 @@
 
 ## Run
 
-1. Download `intentional_pickup-x.x.x+mc26.2.jar` from one of the places at the top of this README.
+1. Download `intentional_pickup-<loader>-x.x.x+mc26.2.jar` from one of the places at the top of this README.
 2. Copy the downloaded jar file to your `mods` folder.
 
 ## Getting Started With Development
@@ -51,4 +51,4 @@ cd intentional-pickup
 ./gradlew clean build
 ```
 
-You can find the built mod at `intentional-pickup/<loader>/build/libs/intentional_pickup-x.x.x+mc26.2.jar`.
+You can find the built mod at `intentional-pickup/<loader>/build/libs/intentional_pickup-<loader>-x.x.x+mc26.2.jar`.
