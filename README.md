@@ -13,7 +13,17 @@
 
 ## About The Project
 
-**Intentional Pickup** is a small and lightweight mod for Fabric and NeoForge that changes mobs to ***only*** pickup items that are dropped by players. This change should reduce lag by preventing mass build-up of mobs in caves in long term worlds and servers. If running on a server the mod is only required on the server side and is not required to be on the client.
+**Intentional Pickup** is a small and lightweight mod for Fabric and NeoForge that changes mobs to ***only*** pickup items that are dropped by players and optionally only items included in the whitelist or not included in the blacklist. This change should reduce lag by preventing mass build-up of mobs in caves in long term worlds and servers. If running on a server the mod is only required on the server side and is not required to be on the client.
+
+## Configuring The Whitelist/Blacklist
+
+**Intentional Pickup** uses item tags for its whitelist and blacklist, by default both lists are empty meaning mobs will pickup any item dropped by a player.
+
+To add items to either the whitelist or blacklist you will need to create `pickup_whitelist.json` and/or `pickup_blacklist.json` file(s) in a datapack at `data/intentional_pickup/tags/item/`.
+
+If you are unfamiliar will item tags you can follow this example from the [Minecraft wiki](https://minecraft.wiki/w/Tag_(Java_Edition)#Basic_block_tag). Simply replace the `minecraft:X` entries with whatever items you want to allow or disallow.
+
+It is also recommended to keep `replace` set to `false` or don't not include it at all to ensure compatibility with other mods or datapacks that may add to these lists.
 
 ## Run
 
