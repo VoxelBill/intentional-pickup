@@ -62,3 +62,7 @@ cd intentional-pickup
 ```
 
 You can find the built mod at `intentional-pickup/<loader>/build/libs/intentional_pickup-<loader>-x.x.x+mc26.2.jar`.
+
+## Play Bedrock Edition?
+
+**Intentional Pickup** has a Minecraft: Bedrock Edition addon equivalent. You can visit its repo [here](https://github.com/VoxelBill/intentional-pickup-bedrock).
