@@ -23,7 +23,7 @@ To add items to either the whitelist or blacklist you will need to create `picku
 
 If you are unfamiliar will item tags you can follow this example from the [Minecraft wiki](https://minecraft.wiki/w/Tag_(Java_Edition)#Basic_block_tag). Simply replace the `minecraft:X` entries with whatever items you want to allow or disallow.
 
-It is also recommended to keep `replace` set to `false` or don't not include it at all to ensure compatibility with other mods or datapacks that may add to these lists.
+It is also recommended to keep `replace` set to `false` or do not include it at all to ensure compatibility with other mods or datapacks that may add to these lists.
 
 ## Run
 
