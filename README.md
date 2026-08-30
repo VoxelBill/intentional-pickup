@@ -6,7 +6,7 @@
 
 <div align="center">
 
-~~Download on Modrinth~~ (Coming Soon) |
+[Download on Modrinth](https://modrinth.com/mod/intentional-pickup/versions) |
 [Download from Releases](https://github.com/VoxelBill/intentional-pickup/releases)
 
 </div>
